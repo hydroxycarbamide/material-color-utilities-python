@@ -1,6 +1,5 @@
 from curses import termattrs
 
-from regex import P
 from ..palettes.core_palette import *
 import json
 
